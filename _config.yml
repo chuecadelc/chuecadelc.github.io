@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Dignum"
+title                    : "Cristina Chueca Del Cerro"
 title_separator          : "-"
-name                     : &name "Eric Dignum"
+name                     : &name "Cristina Chueca Del Cerro"
 description              : &description "personal description"
-url                      : https://ericdignum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chuecadelc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ericdignum/ericdignum.github.io"
+repository               : "chuecadelc/chuecadelc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : chuecadelc
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Dignum"
-  avatar           : "ericdignum.jpg"
-  bio              : "PhD student Computational Science interested in understanding socio-economic systems"
-  location         : "Amsterdam, NL"
-  employer         : "University of Amsterdam"
+  name             : "Cristina Chueca Del Cerro"
+  avatar           : "chuecadelc.jpg"
+  bio              : "Research Associate in Computational Social Sciences at Durham University"
+  location         : "Durham, UK"
+  employer         : "University of Durham"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.nl/citations?hl=nl&user=cB7-nPQAAAAJ"
-  email            : "ericdignum@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=DiNuQMEAAAAJ&hl=en"
+  email            : "cristina.chueca-del-cerro@durham.ac.uk"
+  researchgate     :  https://www.researchgate.net/profile/Cristina-Chueca-Del-Cerro-2
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ericdignum"
+  github           : "cchuecadelc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ericdignum"
-  orcid            : "https://orcid.org/0000-0002-9560-8005"
+  linkedin         : "cristina-chueca-del-cerro"
+  orcid            : "https://orcid.org/0000-0002-7170-3067"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ericdignum"
+  twitter          : "ChuecaCristina"
   vine             :
   weibo            :
   xing             :
