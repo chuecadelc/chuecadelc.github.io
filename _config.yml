@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cristina Chueca Del Cerro"
+title                    : "Dr. Cristina Chueca Del Cerro"
 title_separator          : "-"
-name                     : &name "Cristina Chueca Del Cerro"
+name                     : &name "Dr. Cristina Chueca Del Cerro"
 description              : &description "personal description"
 url                      : https://chuecadelc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,13 +80,13 @@ analytics:
 author:
   name             : "Cristina Chueca Del Cerro"
   avatar           : "chuecadelc.jpg"
-  bio              : "Research Associate in Computational Social Sciences at Durham University"
+  bio              : "Research Associate in Computational Social Sciences at Durham University."
   location         : "Durham, UK"
   employer         : "University of Durham"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DiNuQMEAAAAJ&hl=en"
   email            : "cristina.chueca-del-cerro@durham.ac.uk"
-  researchgate     :  https://www.researchgate.net/profile/Cristina-Chueca-Del-Cerro-2
+  researchgate     :  "https://www.researchgate.net/profile/Cristina-Chueca-Del-Cerro-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "cristina-chueca-del-cerro"
+  linkedin         : "https://linkedin.com/in/cristina-chueca-del-cerro"
   orcid            : "https://orcid.org/0000-0002-7170-3067"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChuecaCristina"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
