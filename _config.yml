@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Cristina Chueca Del Cerro"
-  avatar           : "chuecadelc.jpg"
+  avatar           : "/assets/CCDC_profile-photo.jpg"
   bio              : "Research Associate in Computational Social Sciences at Durham University."
   location         : "Durham, UK"
   employer         : "University of Durham"
