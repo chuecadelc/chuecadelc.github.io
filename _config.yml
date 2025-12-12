@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Cristina Chueca Del Cerro"
 title_separator          : "-"
-name                     : &name "Dr. Cristina Chueca Del Cerro"
+name                     : ""
 description              : &description "personal description"
 url                      : https://chuecadelc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/cristina-chueca-del-cerro"
+  linkedin         : "cristina-chueca-del-cerro"
   orcid            : "https://orcid.org/0000-0002-7170-3067"
   pinterest        :
   soundcloud       :
