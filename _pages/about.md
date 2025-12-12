@@ -7,16 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: center;">
 
-<img src="/assets/CCDC_profile-photo.jpg" alt="Profile photo" style="border-radius: 50%; width: 180px;">
+## About me
 
 I am a Research Associate in Computational Social Science at Durham University designing algorithms of realistic artificial social networks (RASN) for simulations with a background in political communication and computational social science. My research seeks to explore how social media shape our beliefs, attitudes, and opinions. In particular, I am interested in the role of interpersonal social networks (who do we talk to?), the content we get exposed to (what is on our feeds?) and the content we share (what do we talk about?). My recent publications have focused on explaining how interpersonal social networks and social media filter bubbles contribute to echo chamber emergence and polarisation, more generally using agent-based modelling. I have also explored the importance of structure on social networks as we rewire some of these connections and how flexible are existing network generators to be a general tool for producing diverse artificial social networks. Moreover, I have delivered research seminars on my work at various European Universities and research hinstitutions as well as international conferences, you can find more on my talks map. <br>
-
-</div>
-
---- 
-## About me
 
 My background is in Political Communication with a specialisation on social media research using computational social science approaches. For my PhD in Politics at Glasgow University I designed and implemented an agent-based model of online polarisation and offline protest mobilisation. This was applied to the Catalan independence movement as a case study. It involved a theoretical framework to explain how national identity polarisation could emerge through social networks and social media filter bubbles and how this would motivate people to join protests. I was awarded the best student paper at the Social Simulation Conference (SSC) in Milan (September 2022), organised by the European Association of Social Simulation (ESSA), on my work about social media and social network's role in shaping attitudes: an agent-based model which used the case study of Catalonia's secessionist movement to understand this process.<br>
 
