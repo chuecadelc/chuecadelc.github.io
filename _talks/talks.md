@@ -15,7 +15,7 @@ permalink: /talks/
 
 <h2>Invited talks and workshops</h2>
 
-{% for talk in site.talks.list_talks %}
+{% for talk in site.data.talks.list_talks %}
 **{{ talk.title }}**  
 {{ talk.authors }} 
 *{{ talk.venue }}* 
