@@ -3,6 +3,9 @@ layout: single
 title: "Invited talks and workshops"
 permalink: /talks/
 ---
+<h3>DEBUG: site.data</h3>
+<pre>{{ site.data | jsonify }}</pre>
+
 
 <h2>Talk locations</h2>
 
