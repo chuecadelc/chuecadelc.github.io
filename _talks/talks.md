@@ -6,12 +6,13 @@ permalink: /talks/
 
 <h2>Talk locations</h2>
 
-<iframe
-  src="{{ site.baseurl }}/talkmap/map.html"
-  width="100%"
-  height="600"
-  style="border:none;">
-</iframe>
+<div class="full">
+  <iframe
+    src="{{ site.baseurl }}/talkmap/map.html"
+    style="width:100%; height:600px; border:none;">
+  </iframe>
+</div>
+
 
 <h2>Invited talks and workshops</h2>
 
