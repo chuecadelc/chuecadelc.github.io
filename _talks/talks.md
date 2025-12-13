@@ -17,12 +17,13 @@ permalink: /talks/
 </div>
 
 
-<h2>Invited talks and workshops</h2>
+<h2>Full list</h2>
 
 {% for talk in site.data.talks.list_talks %}
-**{{ talk.title }}**  
-{{ talk.authors }} 
-*{{ talk.venue }}* 
-*{{ talk.dates }}*  
-*{{ talk.location }}*
+  <p><strong>{{ talk.title }}</strong><br>
+  {{ talk.authors }}<br>
+  {{ talk.venue }}<br>
+  {{ talk.dates }}<br>
+  {{ talk.location }}</p>
 {% endfor %}
+
