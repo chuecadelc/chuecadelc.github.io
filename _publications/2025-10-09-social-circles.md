@@ -3,7 +3,7 @@ title: "Tunable network properties with Hamill and Gilbert’s Social Circles ge
 collection: publications
 permalink: /publication/social-circles
 excerpt: 'Hamill and Gilbert (J Artif Soc Soc Simul 12, 1–23, 2009) developed the Social Circles algorithm to generate synthetic networks that have properties of real social networks such as skewed degree distribution, positive clustering coefficient, degree assortativity and short path lengths. To assess the viability of Social Circles as a general network generator, we systematically examine the relationship between algorithm parameters and a broader range of structural properties of the generated networks. We varied social reaches for agents, distribution of social reaches in the population, and node density. We find that edge density and centrality measures can be controlled in a predictable way: longer reaches are associated with denser networks, shorter paths, lower degree assortativity (with some exceptions), and smaller variation in centrality measures. However, these network properties changed together and there is limited capacity to control properties separately. Further, clustering coefficient is insensitive to algorithm inputs. Thus, it cannot be used as a general network generator as it stands. If these properties are important, Social Circles could be used to generate starting networks with reasonable social structure, but further steps would be required to refine the structural properties.'
-date: 2024-10-09
+date: 2025-10-09
 venue: 'Applied Network Science'
 paperurl: 'https://doi.org/10.1007/s41109-025-00744-5'
 citation: 'Chueca Del Cerro, C. and Badham, J. (2025) Tunable network properties with Hamill and Gilbert’s Social Circles generator. Applied Network Science'
