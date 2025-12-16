@@ -3,11 +3,7 @@ layout: single
 title: "Invited talks and workshops"
 permalink: /talks/
 ---
-<h3>DEBUG: site.data</h3>
-<pre>{{ site.data | jsonify }}</pre>
-
-
-<h2>Talk locations</h2>
+<h2>Locations of these invited talks and workshops between 2019 and 2025</h2>
 
   <iframe
     src="{{ site.baseurl }}/talkmap/map.html"
@@ -15,7 +11,7 @@ permalink: /talks/
   </iframe>
 
 
-<h2>Full list</h2>
+<h2>Full list below </h2>
 
 {% for talk in site.data.list_talks %}
  <p>
