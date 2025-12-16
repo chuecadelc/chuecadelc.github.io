@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; text-justify: inter-word;">
-  I am a Research Associate in Computational Social Science at Durham University designing algorithms of realistic artificial social networks (RASN) for simulations with a background in political communication and computational social science. My research seeks to explore how social media shape our beliefs, attitudes, and opinions. In particular, I am interested in the role of interpersonal social networks (who do we talk to?), the content we get exposed to (what is on our feeds?) and the content we share (what do we talk about?). 
+  I am a Research Associate in Computational Social Science at Durham University designing algorithms of realistic artificial social networks (RASN) for simulations with a background in political communication and computational social science. My research seeks to explore how social media shape our beliefs, attitudes, and opinions. In particular, I am interested in the role of interpersonal social networks (who do we talk to?), the content we get exposed to (what is on our feeds?) and the content we share (what do we talk about?). <br>
   
   My recent publications have focused on explaining how interpersonal social networks and social media filter bubbles contribute to echo chamber emergence and polarisation, more generally using agent-based modelling. I have also explored the importance of structure on social networks as we rewire some of these connections and how flexible are existing network generators to be a general tool for producing diverse artificial social networks. Moreover, I have delivered research seminars on my work at various European Universities and research hinstitutions as well as international conferences, you can find more on my talks map. <br>
   
@@ -18,7 +17,6 @@ redirect_from:
   
   Beyond these roles, I have extensive experience developing RShiny Apps, performing quantitative analyses in R and Python (text, geographical, big data and simulation) and designing network algorithms in Julia. You can find out more on my [GitHub](https://github.com/chuecadelc).
 
-</div>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
