@@ -3,7 +3,7 @@ layout: single
 title: "Invited talks and workshops"
 permalink: /talks/
 ---
-<h2>Locations of these invited talks and workshops between 2019 and 2025</h2>
+<h2>Locations</h2>
 
   <iframe
     src="{{ site.baseurl }}/talkmap/map.html"
