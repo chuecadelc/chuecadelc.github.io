@@ -3,7 +3,7 @@ title: "Classical Network Generators in Julia"
 permalink: /portfolio/network-generators
 excerpt: 'Four classical network generators I coded in Julia.'
 date: 2024-03-23
-paperurl: '[https://doi.org/10.1007/s41109-024-00679-3](https://github.com/chuecadelc/Classical_Social_Network_Generators)'
+paperurl: 'https://github.com/chuecadelc/Classical_Social_Network_Generators'
 
 ---
 I re-implemented four classical network generators in Julia. These were:
