@@ -1,11 +1,12 @@
 ---
 title: "RShiny Applications"
 permalink: /portfolio/RShiny-apps
-excerpt: 'RShiny Apps - Innteractive dashboards that I've built to deliver impactful data analytics and that include a range of visualisations from histograms, scatterplots to maps.'
+excerpt: 'RShiny Apps. The interactive dashboards I have built to deliver impactful data analytics and visualiations from histograms and scatterplots to maps.'
 date: 2026-02-19
 paperurl: 'https://github.com/chuecadelc/ShinySIMD'
 
 ---
+
 
 During my part-time one-year internship at the Q-Step Center (School of Social and Political Sciences) of Glasgow Univeristy (2017-2018), I designed and coded the following RShiny interactive applications that allow to display various data analyses or analytics depending on whether you're using an academic or an industry term, as well as variety of visualisations from histograms, scatterplots to an interactive map of Glasgow. The purpose of these apps was to showcase data to the public in an accessible manner and both apps were used at various events at highschools in Glasgow promoting the Q Step programme that integrates qunatitative methods into social sciences.
 
@@ -22,4 +23,3 @@ While at Durham University working as a research associate in computational soci
 * (Desgning) Realistic Artificial Social Networks (RASN) available late Spring 2026 as our preparation for submission of the corresponding paper finalises.
 
 Most recently, I've decided to revisit my original code for the SIMD app which happened to be my first repo on GitHub and to give it a proper update. That includes not only a more user-friendly UI with a modern CSS theme (using bslib) but also better variable descriptions, more visualisation options for one and two-variable comparisons. Additionally, I have included the SIMD2020 dataset which is the most recent release so people can compare. Lastly, while the previous version interactive map was limited to Glasgow, this one includes the whole of Scotland too. Note that due to the low population density of some areas it may appear sparse but when you zoom in you'll see more defined areas.
-
