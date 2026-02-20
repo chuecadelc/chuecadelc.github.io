@@ -249,7 +249,7 @@ defaults:
       path: ""
       type: committee-memberships
     values:
-      layout: singe
+      layout: single
       author_profile: true
       share: true
 
