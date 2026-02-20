@@ -1,4 +1,3 @@
-
 ---
 title: "European Social Simulation Association (ESSA)"
 permalink: /committee-memberships/essa
