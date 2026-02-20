@@ -12,8 +12,8 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  # - title: # "Blog Posts"
-  #   url: # /year-archive/
+  - title: "Committee memberships"
+    url: /committee-memberships/
     
   #- title: "CV"
   #  url: /cv/
