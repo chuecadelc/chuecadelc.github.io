@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google6687c8a4a47b46eb.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -185,7 +185,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  committee-memberships:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -240,6 +242,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+# _committee-memberships
+  - scope:
+      path: ""
+      type: committee-memberships
+    values:
+      layout: single
       author_profile: true
       share: true
 
