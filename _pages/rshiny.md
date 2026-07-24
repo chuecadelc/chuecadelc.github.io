@@ -14,7 +14,7 @@ The latest release introduces a redesigned and modernised interface built with b
 
 The project also incorporates a CI/CD workflow using GitHub Actions, including automated syntax checks, linting and a custom validation R script ensure consistency between the application's UI and server components,.
 
-[Launch App →](https://cchuecadelcerro.shinyapps.io/SIMD-Shiny-App/){: .btn .btn--primary}
+[Launch App →](https://cchuecadelcerro.shinyapps.io/SIMD-ShinyApp/){: .btn .btn--primary}
 
 [View Code on GitHub →](https://github.com/chuecadelc/ShinySIMD)
 
